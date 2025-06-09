@@ -1,0 +1,16 @@
+<svg width="300" height="100" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" fill="#FFD700">
+    <!-- Icon -->
+    <g transform="translate(0, 30)">
+      <rect x="10" y="0" rx="15" ry="15" width="100" height="100" fill="#FFD700"/>
+      <path d="M20,80 Q50,30 90,60 L90,40 Q60,20 40,50 Q30,60 20,80Z" fill="white"/>
+      <circle cx="40" cy="60" r="8" fill="#FFD700"/>
+      <circle cx="60" cy="50" r="8" fill="#FFD700"/>
+      <circle cx="80" cy="60" r="8" fill="#FFD700"/>
+      <path d="M35,75 a10,10 0 0,1 30,0" fill="#FFD700"/>
+    </g>
+  
+    <!-- Text -->
+    <text x="130" y="70" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFD700">N&amp;M</text>
+    <text x="130" y="115" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#FFD700">CRM&amp;ERP</text>
+  </svg>
+  
